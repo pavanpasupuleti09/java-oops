@@ -2,7 +2,7 @@ package com.java.strings;
 
 public class CountVowels {
     public static void main(String[] args) {
-        String input = "Programming";
+        String input = "Computer";
         int i ;
         int count = 0;
         for (i = 0;i < input.length();i++){
