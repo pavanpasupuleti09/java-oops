@@ -23,7 +23,7 @@ class Demo {
         acc.setBalance(5000);
         System.out.println(acc.getBalance());
 
-        acc.setBalance(-100); // invalid
+        acc.setBalance(-100);
     }
 }
 
