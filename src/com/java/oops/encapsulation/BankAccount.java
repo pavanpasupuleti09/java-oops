@@ -20,7 +20,7 @@ class Demo {
     public static void main(String[] args) {
         BankAccount acc = new BankAccount();
 
-        acc.setBalance(5000);
+        acc.setBalance(50000);
         System.out.println(acc.getBalance());
 
         acc.setBalance(-100);
