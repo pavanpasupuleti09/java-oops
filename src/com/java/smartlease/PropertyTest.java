@@ -8,7 +8,7 @@ public class PropertyTest {
                 "P101",
                 "Green Residency",
                 "Hyderabad",
-                180000,
+                1800000,
                 true,
                 12
         );
