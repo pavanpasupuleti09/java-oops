@@ -41,7 +41,7 @@ public class ArraysTest {
         }
         double average = (double) sum1 / ids.length;
 
-        System.out.println("Average = " + average);
+        System.out.println("average = " + average);
 
 
             }
