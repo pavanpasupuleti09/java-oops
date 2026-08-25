@@ -2,7 +2,7 @@ package com.java.arrays;
 
 public class FindSmallestElement {
     public static void main(String[] args) {
-        int[] arr = {5, 8, 2, 15, 3};
+        int[] arr = {5, 8, 2, 16, 3};
 
         int smallest = arr[0];
 
